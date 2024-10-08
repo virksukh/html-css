@@ -1,0 +1,19 @@
+.google-logo{
+  width: 200px;
+  object-fit: contain;
+  object-position: center;
+  padding-left: 160px;
+  display: block;
+  margin-bottom: 10px;
+}
+.text-box{
+  width: 500px;
+  border: none;
+  border-radius: 20px;
+  color: gray;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+}
