@@ -1,0 +1,42 @@
+p{
+  font-family: Arial;
+  color: rgb(100,100,100);
+  font-size: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.label{
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.text-box{
+  width: 300px;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.disclaimer{
+  margin-bottom: 14px;
+}
+
+.join-button{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  text-align: center;
+  border: none;
+  font-size: 12px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 30px;
+}
