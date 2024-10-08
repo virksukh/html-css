@@ -1,0 +1,10 @@
+.card{
+  border-color: rgb(150, 150, 150);
+  background-color: white;
+  display: inline-block;
+  width: 200px;
+  border-width: 1px;
+  border-style: solid;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
