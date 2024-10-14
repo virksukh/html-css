@@ -1,0 +1,11 @@
+.back-button{
+  padding:8px 5px;
+  margin-right: 20px;
+}
+.next-button{
+  margin-left: 20px;
+  padding: 8px 5px;
+}
+a{
+  margin-right: 5px;
+}

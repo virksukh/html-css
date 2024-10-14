@@ -1,0 +1,16 @@
+.click{
+  background-color: green;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0,0,0,0.8);
+
+
+}
+.click:active{
+  box-shadow: none;
+  margin-top: 3px;
+  margin-left: 3px;
+}
