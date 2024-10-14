@@ -1,0 +1,20 @@
+.back-link{
+  color: rgb(0,113,133);
+}
+.price{
+  color: rgb(0,118,0);
+  font-weight: bold;
+}
+
+.add-button{
+  background-color: rgb(255,215,20);
+  padding: 10px 25px;
+  border: none;
+  border-radius: 20px;
+}
+.buy-button{
+  background-color: rgb(255,164,28);
+  border: none;
+  padding: 10px 50px;
+  border-radius: 30px;
+}
