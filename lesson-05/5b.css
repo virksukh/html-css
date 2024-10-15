@@ -1,0 +1,15 @@
+.one{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.two{
+  color: red;
+  font-style: italic;
+}
+p{
+  font-family: Arial;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}

@@ -1,0 +1,36 @@
+
+p{
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: Arial;
+}
+button{
+  margin: 0 auto;
+    display: block;
+}
+.one{
+  color: red;
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+.two{
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.three{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.four{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.buy{
+  background-color: rgb(55, 104, 203);
+  color: white;
+  border-radius: 15px;
+  border: none;
+  padding: 5px 10px;
+}

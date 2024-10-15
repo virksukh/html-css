@@ -1,0 +1,20 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.first{
+  color: gray;
+  font-weight: 500;
+}
+.one{
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.two{
+  margin-bottom: 20px;
+  width: 400px;
+}
+.second{
+  color: rgb(37, 100, 208);
+}

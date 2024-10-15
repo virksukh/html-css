@@ -1,0 +1,21 @@
+p{
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: Arial;
+}
+.one{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.two{
+  color: green;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.three{
+  color: gray;
+  font-size: 12px;
+}
+.styleit{
+  color: red;
+}
