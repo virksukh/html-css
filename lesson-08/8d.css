@@ -1,0 +1,24 @@
+.two,
+.one{
+  width: 142px;
+  display: inline-block;margin-right:2px;
+  margin-bottom: 10px;
+
+}
+.three{
+  display: block;
+  width: 305px;
+  margin-bottom: 10px;
+}
+input{
+  padding: 5px 5px;
+}
+.signup{
+  width: 320px;
+  background-color: rgb(56, 143, 236);
+  color: white;
+  border: none;
+  padding: 5px 5px;
+  border-radius: 10px;
+  height: 35px;
+}

@@ -1,0 +1,15 @@
+img{
+  vertical-align: middle;
+  margin-left: 150px;
+  width: 200px;
+  margin-bottom: 15px;
+  display: block;
+
+}
+input{
+  width: 500px;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
