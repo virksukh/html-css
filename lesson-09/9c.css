@@ -1,0 +1,11 @@
+.form{
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  width: 300px;
+  padding: 10px 10px;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 10;
+}

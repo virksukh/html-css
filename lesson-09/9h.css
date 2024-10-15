@@ -1,0 +1,21 @@
+img{
+  width: 200px;
+}
+input{
+  width: 500px;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  margin-bottom: 20px;
+}
+.base{
+  text-align: center;
+  margin-top: 20px;
+}
+button{
+  background-color: rgb(237, 237, 237);
+  border: none;
+  padding: 10px 10px;
+  margin-right: 10px;
+}

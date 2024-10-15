@@ -1,0 +1,37 @@
+.divex{
+  width: 400px;
+  border-width: 2px;
+  border-color: red;
+  border-style: solid;
+  padding: 10px 10px;
+  border-radius: 6px;
+}
+.one{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.two{
+  border: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+  text-align: left;
+  width: 200px;
+  vertical-align: middle;
+}
+p{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.three{
+  background-color: rgb(67, 137, 218);
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 20px;
+  vertical-align: middle;
+}
