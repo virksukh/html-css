@@ -1,0 +1,46 @@
+.thumbnail{
+  width: 300px;
+  display: block;
+  margin-bottom: 15px;
+}
+.title{
+  vertical-align: top;
+  margin-bottom: 15px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+}
+.channel-pic{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.author{
+  margin-bottom: 5px;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+}
+.stats{
+  margin-bottom: 5px;
+  color: rgb(96, 96, 96);
+  font-size: 13px;
+}
+
+.base{
+  width: 300px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.one{
+  width: 300px;
+}
+.two{
+  width: 300px;
+}
+.three{
+  width: 50px;
+}
+.four{
+  width: 250px;
+  padding-left: 10px;
+}

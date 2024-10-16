@@ -1,0 +1,30 @@
+.left{
+
+  color: white;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: 80px;
+}
+.middle{
+  flex: 1;
+  max-width: 500px;
+}
+.right{
+  margin-left: 10px;
+}
+.search-bar{
+  width: 350px;
+  border-radius: 15px;
+  border: none;
+  padding: 5px 15px;
+}
+.button{
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  background-color: violet;
+  padding: 5px 10px;
+  border
+}
