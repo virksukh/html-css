@@ -1,7 +1,7 @@
 .search-bar{
   display: block;
   flex: 1;
-  height: 36px;
+  height: 50px;
   padding-left: 10px;
   font-size: 16px;
   border-color: gray;
@@ -23,6 +23,15 @@
 .header{
   height: 60px;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: white;
+  border-bottom-style:solid;
+  border-bottom-color: rgb(235, 235, 235);
+  border-bottom-width: 1px;
 }
 .left{
 

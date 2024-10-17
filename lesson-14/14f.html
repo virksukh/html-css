@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>14f</title>
+</head>
+<body>
+  <div class="first-sidebar">
+    <img src="cat.jpg" alt="">
+    <img src="cat2.jpg" alt="">
+    <img src="dog.jpg" alt="">
+  </div>
+  <div class="second-sidebar">
+    <div style="display: flex;align-items: center;justify-content: space-between;padding: 5px 5px;color: white; vertical-align: top;">
+      <p>INFO</p>
+      <p style="color: gray;font-size: 22px;">+</p>
+    </div>
+    <div style="color: gray;padding: 5px 5px;">
+      <p style="margin-bottom: 10px;"># new-videos</p>
+      <p style="margin-bottom: 10px;"># updates</p>
+      <p style="margin-bottom: 10px;"># faq</p>
+    </div>
+    
+  </div>
+
+  <style>
+    .first-sidebar{
+      background-color: rgb(38, 38, 38);
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 50px;
+      padding: 10px 10px;
+    }
+    .second-sidebar{
+      background-color: rgb(66, 66, 66);
+      position: fixed;
+      left:60px;
+      top: 0;
+      bottom: 0;
+      width: 100px;
+    }
+    img{
+      width: 40px;
+      height: 40px;
+      border-radius: 20px;
+      object-fit: cover;
+    }
+    p{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  </style>
+</body>
+</html>
