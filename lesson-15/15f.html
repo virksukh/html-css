@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>15f</title>
+</head>
+<body style="height: 3000px;">
+  <div class="product-container">
+    <img class="product-image" src="cat.jpg" alt="">
+    <div class="promotion">20% OFF</div>
+    <div class="button-overlay">
+      <button>Add to Cart</button>
+    </div>
+  </div>
+  <style>
+    .product-container{
+      position: relative;
+      display: inline-block;
+
+    }
+    .product-image{
+      width: 300px;
+      height: 300px;
+    }
+    .promotion{
+      position: absolute;
+      top: 10px;
+      right: 0px;
+      background-color: black;
+      color: white;
+      font-size: 12px;
+      padding:4px 12px;
+    }
+    .button-overlay{
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 80px;
+      background-color: rgba(188, 186, 186, 0.8);
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+    button{
+      font-size: 10px;
+      padding: 4px 12px;
+      border-style: solid;
+      border-width: 1px;
+    }
+  </style>  
+</body>
+</html>
